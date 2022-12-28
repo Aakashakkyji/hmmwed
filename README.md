@@ -8,7 +8,7 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://saharshisha.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
+  
 </details>
 
 With the divine grace of the almighty, inviting you and your family to Gauri & Amar's wedding to be held on 23 JANUARY 2023, AT SHUKLA GARDEN MALGODAM RD, SHANTI NAGAR, ETAH, UTTAR PRADESH 207002.
